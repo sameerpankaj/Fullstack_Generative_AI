@@ -12,6 +12,8 @@ Print: 'Order ready for [name]'
 
 '''
 
+#use of for and in
+
 # Create a list containing the names of customers who placed orders
 orders = ['hitesh', 'Aman', 'Becky', 'Carlos']
 
